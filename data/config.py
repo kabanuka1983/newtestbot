@@ -5,7 +5,7 @@ DB_NAME = "alexmurphy"
 HOST = "localhost"
 
 # BOT
-BOT_TOKEN = "5972839249:AAFpyFmSVdLJDzDkBeOWQs2IHIhFyBJlKjI"
+BOT_TOKEN = ""
 
 PERIOD = 3600*24*30
 
